@@ -1,22 +1,21 @@
 #nomeCompleto {
   text-align: center;
+  background-color: lightblue;
+  
 }
 
 #profissao {
   text-align: center;
+  background-color: lightblue;
+  
 }
 
 #fotomatheus {
-  width: 300px;
-  border-radius: 25%;
-  display: flex;
-  margin: auto;
+
 }
 
 .linksredessociais {
-  text-align: center;
-  display: inline-block;
-  margin: 0;
+ 
 }
 
 .menu {
