@@ -1,0 +1,23 @@
+#nomeCompleto{
+  text-align: center;
+}
+#profissao{
+  text-align: center;
+}
+#fotomatheus {
+  width: 300px;
+  border-radius: 25%; 
+  display:block;
+  margin: auto;
+}
+.linksredessociais{
+  text-align: center;
+  display: inline-block;
+  margin: 0;
+  }
+body{
+  font-family: montserrat, serif;
+  background-color: lightgrey;
+}
+
+
