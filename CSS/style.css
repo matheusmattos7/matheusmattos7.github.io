@@ -1,23 +1,28 @@
-#nomeCompleto{
+#nomeCompleto {
   text-align: center;
 }
-#profissao{
+
+#profissao {
   text-align: center;
 }
+
 #fotomatheus {
   width: 300px;
-  border-radius: 25%; 
-  display:block;
+  border-radius: 25%;
+  display: flex;
   margin: auto;
 }
-.linksredessociais{
+
+.linksredessociais {
   text-align: center;
   display: inline-block;
   margin: 0;
-  }
-body{
+}
+
+.menu {
+}
+
+body {
   font-family: montserrat, serif;
   background-color: lightgrey;
 }
-
-
